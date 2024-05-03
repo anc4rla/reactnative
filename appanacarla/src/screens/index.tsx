@@ -4,7 +4,7 @@ export function SignIn(){
 
 return(
   <View>
-    <Text>nnanaaaaaaaaaaaaaaaaaaa</Text>
+    <Text>hello world!</Text>
   </View>
 );
 
