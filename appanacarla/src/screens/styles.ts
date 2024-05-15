@@ -6,6 +6,11 @@ export const styles = StyleSheet.create({
         backgroundColor: 'blue',
         alignItems: 'center',
         justifyContent: 'center'
+    },
+    input: {
+        height: 50,
+        width:200,
+        borderBottomWidth:2
     }
 
 })
