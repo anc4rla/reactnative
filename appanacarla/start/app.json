@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "appanacarla",
-    "slug": "appanacarla",
+    "name": "start",
+    "slug": "start",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,16 +11,13 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#0D133E"
+        "backgroundColor": "#ffffff"
       }
     },
     "web": {
