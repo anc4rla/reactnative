@@ -11,6 +11,10 @@ export const styles = StyleSheet.create({
         height: 50,
         width:200,
         borderBottomWidth:2
+    },
+    image:{
+        width:'100%',
+        height:360
     }
 
 })
